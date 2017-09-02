@@ -1,6 +1,6 @@
 ### Welcome to my GitHub Page 
 
-You can access my [Github profile](https://github.com/ghiggi) to see my ongoing projects.
+You can access my [GitHub profile](https://github.com/ghiggi) to see my ongoing projects.
 
 THIS PAGE IS UNDER CONSTRUCTION !!!
 
