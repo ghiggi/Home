@@ -1,6 +1,6 @@
 ﻿## Welcome to my GitHub Page 
 
-You can access my [Github profile](https://github.com/ghiggi/MyWebsite/edit/master/README.md) to have a look to my ongoing projects.
+You can access my [Github profile](https://github.com/ghiggi) to look my ongoing projects.
 
 THIS PAGE IS UNDER CONSTRUCTION !!!
 
