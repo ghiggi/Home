@@ -1,8 +1,8 @@
-## Welcome to GitHub Pages
+﻿## Welcome to my GitHub Page 
 
-You can use the [editor on GitHub](https://github.com/ghiggi/MyWebsite/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+You can access my [Github profile](https://github.com/ghiggi/MyWebsite/edit/master/README.md) to have a look to my ongoing projects.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+THIS PAGE IS UNDER CONSTRUCTION !!!
 
 ### Markdown
 
