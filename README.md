@@ -1,6 +1,6 @@
 ### Welcome to my GitHub Page 
 
-GitHub Page : [https://ghiggi.github.io/Home/](https://ghiggi.github.io/Home/)
+GitHub Page : [https://ghiggi.github.io](https://ghiggi.github.io)
 
 You can access my [GitHub profile](https://github.com/ghiggi) to see my ongoing projects.
 
